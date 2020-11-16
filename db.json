@@ -15,23 +15,6 @@
                   "name": "Project 3",
                   "customer": "Company 3"
             }
-      ],
-      "project": 
-      {
-            "1": {
-                  "id": 1,
-                  "name": "Kerkwijck",
-                  "customer": "Juri NV",
-                  "blueprint": "",
-                  "data": []
-            },
-            "2": {
-                  "id": 1,
-                  "name": "Kerkwijck",
-                  "customer": "Juri NV",
-                  "blueprint": "",
-                  "data": []
-            }
-      }
+      ]
 }
  
