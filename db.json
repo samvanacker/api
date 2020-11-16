@@ -1,6 +1,20 @@
 {
-      "id": 1,
-      "name": "Kerkwijck",
-      "customer": "Juri NV",
-      "blueprint": ""
+      projects: [
+            {
+                  "id": 1,
+                  "name": "Kerkwijck",
+                  "customer": "Juri NV"
+            },
+            {
+                  "id": 2,
+                  "name": "Project 2",
+                  "customer": "Company 2"
+            },
+            {
+                  "id": 3,
+                  "name": "Project 3",
+                  "customer": "Company 3"
+            }
+      ]
 }
+ 
